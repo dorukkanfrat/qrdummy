@@ -1,0 +1,104 @@
+{
+  "menu": [
+    {
+      "category": "Pizza",
+      "items": [
+        {
+          "id": 1,
+          "name": "New York Pizza",
+          "details": {
+            "title": "New York Pizza",
+            "description": "İnce hamur üzerine mozzarella peyniri, pepperoni ve soğan.",
+            "price": 120,
+            "ingredients": ["Mozzarella", "Pepperoni", "Soğan"]
+          }
+        },
+        {
+          "id": 2,
+          "name": "Napoli Pizza",
+          "details": {
+            "title": "Napoli Pizza",
+            "description": "Napoli usulü domates soslu, taze fesleğen ve mozzarella ile hazırlanmış pizza.",
+            "price": 110,
+            "ingredients": ["Domates Sosu", "Mozzarella", "Fesleğen"]
+          }
+        }
+      ]
+    },
+    {
+      "category": "Aperatif",
+      "items": [
+        {
+          "id": 3,
+          "name": "Sarımsaklı Ekmek",
+          "details": {
+            "title": "Sarımsaklı Ekmek",
+            "description": "Fırınlanmış sarımsaklı ekmek üzerine tereyağı ve maydanoz.",
+            "price": 35,
+            "ingredients": ["Tereyağı", "Sarımsak", "Maydanoz"]
+          }
+        },
+        {
+          "id": 4,
+          "name": "Dilim Ekmek Sucuklu",
+          "details": {
+            "title": "Dilim Ekmek Sucuklu",
+            "description": "Kızarmış ekmek dilimleri üzerinde sucuk ve erimiş kaşar.",
+            "price": 45,
+            "ingredients": ["Ekmek", "Sucuk", "Kaşar Peyniri"]
+          }
+        }
+      ]
+    },
+    {
+      "category": "İçecek",
+      "items": [
+        {
+          "id": 5,
+          "name": "Kola",
+          "details": {
+            "title": "Kola",
+            "description": "Soğuk ve ferahlatıcı kola, 330ml.",
+            "price": 15,
+            "size": "330ml"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Ayran",
+          "details": {
+            "title": "Ayran",
+            "description": "Doğal ve lezzetli ayran, 250ml.",
+            "price": 10,
+            "size": "250ml"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Tatlı",
+      "items": [
+        {
+          "id": 7,
+          "name": "Baklava",
+          "details": {
+            "title": "Baklava",
+            "description": "Cevizli ve bol şerbetli geleneksel Türk tatlısı.",
+            "price": 50,
+            "ingredients": ["Ceviz", "Yufka", "Şerbet"]
+          }
+        },
+        {
+          "id": 8,
+          "name": "Sufle",
+          "details": {
+            "title": "Sufle",
+            "description": "İçi akışkan çikolata dolgulu sufle, yanında vanilyalı dondurma.",
+            "price": 60,
+            "ingredients": ["Çikolata", "Yumurta", "Un", "Vanilyalı Dondurma"]
+          }
+        }
+      ]
+    }
+  ]
+}
