@@ -2,7 +2,7 @@
   "menu": [
     {
       "category": "Pizza",
-      "image": "https://via.placeholder.com/400x300?text=Pizza+Kategori",
+      "image": "https://placehold.co/400x300?text=Pizza+Kategori",
       "items": [
         {
           "id": 1,
@@ -13,9 +13,9 @@
             "price": 120,
             "ingredients": ["Mozzarella", "Pepperoni", "Soğan"],
             "images": [
-              "https://via.placeholder.com/400x300?text=New+York+Pizza+1",
-              "https://via.placeholder.com/400x300?text=New+York+Pizza+2",
-              "https://via.placeholder.com/400x300?text=New+York+Pizza+3"
+              "https://placehold.co/400x300?text=New+York+Pizza+1",
+              "https://placehold.co/400x300?text=New+York+Pizza+2",
+              "https://placehold.co/400x300?text=New+York+Pizza+3"
             ]
           }
         },
@@ -28,9 +28,9 @@
             "price": 110,
             "ingredients": ["Domates Sosu", "Mozzarella", "Fesleğen"],
             "images": [
-              "https://via.placeholder.com/400x300?text=Napoli+Pizza+1",
-              "https://via.placeholder.com/400x300?text=Napoli+Pizza+2",
-              "https://via.placeholder.com/400x300?text=Napoli+Pizza+3"
+              "https://placehold.co/400x300?text=Napoli+Pizza+1",
+              "https://placehold.co/400x300?text=Napoli+Pizza+2",
+              "https://placehold.co/400x300?text=Napoli+Pizza+3"
             ]
           }
         }
@@ -38,7 +38,7 @@
     },
     {
       "category": "Aperatif",
-      "image": "https://via.placeholder.com/400x300?text=Aperatif+Kategori",
+      "image": "https://placehold.co/400x300?text=Aperatif+Kategori",
       "items": [
         {
           "id": 3,
@@ -49,9 +49,9 @@
             "price": 35,
             "ingredients": ["Tereyağı", "Sarımsak", "Maydanoz"],
             "images": [
-              "https://via.placeholder.com/400x300?text=Sarımsaklı+Ekmek+1",
-              "https://via.placeholder.com/400x300?text=Sarımsaklı+Ekmek+2",
-              "https://via.placeholder.com/400x300?text=Sarımsaklı+Ekmek+3"
+              "https://placehold.co/400x300?text=Sarımsaklı+Ekmek+1",
+              "https://placehold.co/400x300?text=Sarımsaklı+Ekmek+2",
+              "https://placehold.co/400x300?text=Sarımsaklı+Ekmek+3"
             ]
           }
         },
@@ -64,9 +64,9 @@
             "price": 45,
             "ingredients": ["Ekmek", "Sucuk", "Kaşar Peyniri"],
             "images": [
-              "https://via.placeholder.com/400x300?text=Dilim+Ekmek+Sucuklu+1",
-              "https://via.placeholder.com/400x300?text=Dilim+Ekmek+Sucuklu+2",
-              "https://via.placeholder.com/400x300?text=Dilim+Ekmek+Sucuklu+3"
+              "https://placehold.co/400x300?text=Dilim+Ekmek+Sucuklu+1",
+              "https://placehold.co/400x300?text=Dilim+Ekmek+Sucuklu+2",
+              "https://placehold.co/400x300?text=Dilim+Ekmek+Sucuklu+3"
             ]
           }
         }
@@ -74,7 +74,7 @@
     },
     {
       "category": "İçecek",
-      "image": "https://via.placeholder.com/400x300?text=İçecek+Kategori",
+      "image": "https://placehold.co/400x300?text=İçecek+Kategori",
       "items": [
         {
           "id": 5,
@@ -85,9 +85,9 @@
             "price": 15,
             "size": "330ml",
             "images": [
-              "https://via.placeholder.com/400x300?text=Kola+1",
-              "https://via.placeholder.com/400x300?text=Kola+2",
-              "https://via.placeholder.com/400x300?text=Kola+3"
+              "https://placehold.co/400x300?text=Kola+1",
+              "https://placehold.co/400x300?text=Kola+2",
+              "https://placehold.co/400x300?text=Kola+3"
             ]
           }
         },
@@ -100,9 +100,9 @@
             "price": 10,
             "size": "250ml",
             "images": [
-              "https://via.placeholder.com/400x300?text=Ayran+1",
-              "https://via.placeholder.com/400x300?text=Ayran+2",
-              "https://via.placeholder.com/400x300?text=Ayran+3"
+              "https://placehold.co/400x300?text=Ayran+1",
+              "https://placehold.co/400x300?text=Ayran+2",
+              "https://placehold.co/400x300?text=Ayran+3"
             ]
           }
         }
@@ -110,7 +110,7 @@
     },
     {
       "category": "Tatlı",
-      "image": "https://via.placeholder.com/400x300?text=Tatlı+Kategori",
+      "image": "https://placehold.co/400x300?text=Tatlı+Kategori",
       "items": [
         {
           "id": 7,
@@ -121,9 +121,9 @@
             "price": 50,
             "ingredients": ["Ceviz", "Yufka", "Şerbet"],
             "images": [
-              "https://via.placeholder.com/400x300?text=Baklava+1",
-              "https://via.placeholder.com/400x300?text=Baklava+2",
-              "https://via.placeholder.com/400x300?text=Baklava+3"
+              "https://placehold.co/400x300?text=Baklava+1",
+              "https://placehold.co/400x300?text=Baklava+2",
+              "https://placehold.co/400x300?text=Baklava+3"
             ]
           }
         },
@@ -136,9 +136,9 @@
             "price": 60,
             "ingredients": ["Çikolata", "Yumurta", "Un", "Vanilyalı Dondurma"],
             "images": [
-              "https://via.placeholder.com/400x300?text=Sufle+1",
-              "https://via.placeholder.com/400x300?text=Sufle+2",
-              "https://via.placeholder.com/400x300?text=Sufle+3"
+              "https://placehold.co/400x300?text=Sufle+1",
+              "https://placehold.co/400x300?text=Sufle+2",
+              "https://placehold.co/400x300?text=Sufle+3"
             ]
           }
         }
